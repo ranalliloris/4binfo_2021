@@ -1,6 +1,6 @@
 body
 {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier Prime', monospace;    
     background-color: #efefef;
 }
 
@@ -17,8 +17,7 @@ body
 {
     width: 700px;
     font-size: 26px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #3b3838;
+    font-family: 'Dela Gothic One', cursive;    color: #3b3838;
     margin: 10px auto 25px auto;
     text-align: center;
 }
