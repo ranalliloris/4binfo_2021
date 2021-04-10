@@ -1,0 +1,6 @@
+[0410/071130.666:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0410/071130.667:ERROR:crash_report_database_win.cc(606)] CreateDirectory C:\Program Files (x86)\Easthas\Reports\Dump: Impossibile trovare il percorso specificato. (0x3)
+[0410/071534.884:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0410/071534.885:ERROR:crash_report_database_win.cc(606)] CreateDirectory C:\Program Files (x86)\Easthas\Reports\Dump: Impossibile trovare il percorso specificato. (0x3)
+[0410/071802.096:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0410/071802.097:ERROR:crash_report_database_win.cc(606)] CreateDirectory C:\Program Files (x86)\Easthas\Reports\Dump: Impossibile trovare il percorso specificato. (0x3)
