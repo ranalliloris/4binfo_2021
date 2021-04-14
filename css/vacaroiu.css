@@ -1,0 +1,102 @@
+body 
+{
+  background-color: beige;
+}
+
+  h1
+  {
+    font-family:"Times New Roman", Courier, monospace;
+    color: coral;
+    text-shadow: 2px 2px black;
+  }
+
+  h4
+  {
+    font-size: 30px;
+    color: crimson;
+    text-decoration: underline;
+  }
+
+  h5
+  {        
+    font-family: Georgia, Arial, monospace;
+    color: gold;
+    text-shadow: 1px 1px red;
+  }
+
+    img#firenze 
+    {
+      float: left;
+      margin: 15px 15px 15px 15px;
+      width: 370px;
+      height: 270px;
+      border-radius: 8px;
+    }
+
+    img#Ramnicu_Valcea
+    {
+      float: left;
+      margin: 15px 15px 15px 15px;
+      width: 370px;
+      height: 270px;
+      border-radius: 8px;
+    }
+
+    img#statua {
+      float: left;
+      margin: 15px 15px 15px 15px;
+      width: 370px;
+      height: 270px;
+      border-radius: 8px;
+    }
+
+    img#ferrari
+    {
+      float: left;
+      margin: 15px 15px 15px 15px;
+      width: 370px;
+      height: 270px;
+      border-radius: 8px;
+    }
+
+    img#fiorentina 
+    {
+      float: left;
+      margin: 15px 15px 15px 15px;
+      width: 370px;
+      height: 270px;
+      border-radius: 8px;
+    }
+
+    img#pizza 
+    {
+      float: left;
+      margin: 15px 15px 15px 15px;
+      width: 370px;
+      height: 270px;
+      border-radius: 8px;
+    }
+
+    img#netflix {
+      float: left;
+      margin: 15px 15px 15px 15px;
+      width: 370px;
+      height: 270px;
+      border-radius: 8px;
+    }
+
+    img#economia {
+      float: left;
+      margin: 15px 15px 15px 15px;
+      width: 370px;
+      height: 270px;
+      border-radius: 8px;
+    }
+
+    img#imprenditore {
+      float: left;
+      margin: 15px 15px 15px 15px;
+      width: 370px;
+      height: 270px;
+      border-radius: 8px;
+    }
