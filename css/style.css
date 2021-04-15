@@ -1,25 +1,22 @@
-body
-{
-    font-family: 'Courier Prime', monospace;    
-    background-color: #efefef;
-}
 
 #page
 {
-    max-width: 940px;
-    min-width: 740px;
+    max-width: 980px;
+    min-width: 780px;
     margin: 10px auto 10px auto;
     padding: 20px;
-    background-color: #fdecd3;
+    background-color: #fcedc3;
 }
 
 #title
 {
     width: 700px;
     font-size: 26px;
-    font-family: 'Dela Gothic One', cursive;    color: #3b3838;
+    font-family: 'Dela Gothic One', cursive;    
+    color: #3b3838;
     margin: 10px auto 25px auto;
     text-align: center;
+    
 }
 
 #content
@@ -31,4 +28,18 @@ body
 .text-center
 {
     text-align: center;
+}
+
+.rounded
+{
+    margin: 10px auto 10px auto;
+}
+
+.description
+{
+    width: 700px;
+    margin: 10px auto 10px auto;
+    font-family: 'Courier Prime', monospace; 
+    text-align: justify;
+    
 }
