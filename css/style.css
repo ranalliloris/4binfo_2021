@@ -1,0 +1,22 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#page
+{
+    width: 900px; 
+    margin: 10px auto 10px auto;
+}
+
+#content
+{
+    width: 700px;
+    margin: 10px auto 10px auto;
+}
+
+img.align-right
+{
+    float: right;
+    margin-right: 10px;
+}
