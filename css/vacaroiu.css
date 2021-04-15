@@ -24,6 +24,14 @@ body
     text-shadow: 1px 1px red;
   }
 
+  img#v {
+    
+    margin: 15px 15px 15px 15px;
+    width: 370px;
+    height: 300px;
+    border-radius: 8px;
+  }
+
     img#firenze 
     {
       float: left;
