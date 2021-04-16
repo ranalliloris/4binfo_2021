@@ -1,0 +1,23 @@
+body
+{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #20c997;
+}
+
+#page
+{
+    background-color: #a4f594cc;
+    width: 900px; 
+    margin: 10px auto 10px auto; 
+    
+}
+
+.nav
+{
+    list-style-type: none;
+}
+
+.nav li
+{
+    display: inline;
+}
